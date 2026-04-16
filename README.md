@@ -7,10 +7,10 @@ Aplikasi ini merupakan hasil implementasi React Native menggunakan Expo, yang te
 ## 🔐 1. Login Screen
 
 ### 📸 Capture Running Program
-![Login Screenshot](link-gambar-login)
+![Login Screenshot](assets/images/login.jpeg)
 
 ### 🔗 Expo Snack
-👉 https://snack.expo.dev/@username/login-app
+👉 [https://snack.expo.dev/@username/login-app](https://snack.expo.dev/@fatur07-02/login)
 
 ### 📝 Deskripsi
 Halaman login digunakan untuk autentikasi pengguna sebelum masuk ke aplikasi. User diminta memasukkan email dan password.
@@ -20,10 +20,10 @@ Halaman login digunakan untuk autentikasi pengguna sebelum masuk ke aplikasi. Us
 ## 📝 2. Register Screen
 
 ### 📸 Capture Running Program
-![Register Screenshot](link-gambar-register)
+![Register Screenshot](/assets/images/register.jpeg)
 
 ### 🔗 Expo Snack
-👉 https://snack.expo.dev/@username/register-app
+👉 [https://snack.expo.dev/@username/register-app](https://snack.expo.dev/@fatur07-02/register)
 
 ### 📝 Deskripsi
 Halaman register digunakan untuk membuat akun baru dengan mengisi data seperti username, email, dan password.
@@ -33,10 +33,10 @@ Halaman register digunakan untuk membuat akun baru dengan mengisi data seperti u
 ## 🏠 3. Home Screen
 
 ### 📸 Capture Running Program
-![Home Screenshot](link-gambar-home)
+![Home Screenshot](/assets/images/home.jpeg)
 
 ### 🔗 Expo Snack
-👉 https://snack.expo.dev/@username/home-app
+👉 [https://snack.expo.dev/@username/home-app](https://snack.expo.dev/@fatur07-02/home)
 
 ### 📝 Deskripsi
 Halaman home merupakan halaman utama setelah login berhasil, yang menampilkan informasi utama aplikasi.
